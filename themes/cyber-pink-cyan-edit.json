@@ -46,7 +46,7 @@
     "sideBarSectionHeader.background": "#111320",
     "sideBarSectionHeader.foreground": "#00f0ff",
     "sideBarSectionHeader.border": "#00f0ff",
-    "sideBarTitle.background": "#000000",
+    "sideBarTitle.background": "#08090f",
     "sideBarTitle.foreground": "#00f0ff",
     "scm.providerBorder": "#00f0ff",
     "list.activeSelectionBackground": "#00f0ff55",
@@ -187,7 +187,8 @@
     "editorOverviewRuler.infoForeground": "#00f0ff",
     "editorError.foreground": "#ff6b6b",
     "editorWarning.foreground": "#f1fa8c",
-    "editorInfo.foreground": "#00f0ff"
+    "editorInfo.foreground": "#00f0ff",
+    "modernEditorTab.activeBackground": "#08090f"
   },
   "tokenColors": [
     {
@@ -208,7 +209,7 @@
         "string constant.other.placeholder"
       ],
       "settings": {
-        "foreground": "#c8d1da"
+        "foreground": "#00f0ff"
       }
     },
     {
@@ -219,7 +220,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#00f0ff"
+        "foreground": "#38bdf8"
       }
     },
     {
