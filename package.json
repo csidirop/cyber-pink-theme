@@ -79,6 +79,12 @@
         "uiTheme": "vs-dark",
         "path": "./themes/cyber-pink-cyan-soft.json",
         "description": "Cyan Soft accent. Muted glow for extended sessions. Keywords: cyber, cyan, soft."
+      },
+      {
+        "label": "CYBER PINK ▶ THEME — 🧊 CYAN EDIT",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyber-pink-cyan-edit.json",
+        "description": "Cyan accent with gray titlebar and other elements. Keywords: cyber, cyan, edit."
       }
     ],
     "commands": [
